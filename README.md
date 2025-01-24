@@ -1,5 +1,5 @@
 This Python script is designed to monitor a specific directory for file changes, particularly focusing on files with a '.cbz' extension, commonly used for comic book archives.
-Designed to make Suwayomi-Server and Kavita Work togethe. Might also work for Komga,
+Designed to make Suwayomi-Server and Kavita Work together. Might also work for Komga
 
 General Overview and Operation:
 Class Definition (MangaHandler): Inherits from FileSystemEventHandler to handle specific file system events—file creation and deletion.
